@@ -1,0 +1,26 @@
+{
+  "name": "express-simple-starter",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "version": "1.0.0",
+  "description": "Learn how to:\r - Configure applications to return data based on environment variables.\r - Manage different environments effectively in full-stack development.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reshma-devraj/deploying_your_api_assignment_2-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/reshma-devraj/deploying_your_api_assignment_2-/issues"
+  },
+  "homepage": "https://github.com/reshma-devraj/deploying_your_api_assignment_2-#readme"
+}
